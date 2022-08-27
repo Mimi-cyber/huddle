@@ -185,7 +185,7 @@ nav button{
     position: absolute;
     height: 10rem;
     width: 100%;
-    top: -110px;
+    top: -133px;
     background-size: 100%;
 }
 #logo img{
@@ -231,6 +231,9 @@ p{
 }
 footer{
     text-align: center;
+}
+footer a{
+    color: #fff;
 }
 @media screen and (max-width: 992px){
     nav button{
